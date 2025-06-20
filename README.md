@@ -1,5 +1,7 @@
 # Mini C Compiler
-
+<p align="center">
+  <img src="C_compiler" alt="Serverless file system" width="600"/>
+</p>
 ## Overview
 
 This project implements a basic version of a **Mini C Compiler** that focuses on three key phases of compilation:
