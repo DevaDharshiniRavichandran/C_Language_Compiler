@@ -1,6 +1,6 @@
 # Mini C Compiler
 <p align="center">
-  <img src="C_compiler" alt="Serverless file system" width="600"/>
+  <img src="C_compiler.png" alt="Serverless file system" width="600"/>
 </p>
 ## Overview
 
